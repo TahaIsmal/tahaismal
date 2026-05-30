@@ -1,8 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Taha%20Ismail&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20from%20Egypt%20%F0%9F%87%AA%F0%9F%87%AC&descAlignY=56&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Taha%20Ismail&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20AI%20Automation&descAlignY=56&descAlign=50"/>
 
-<img align="right" alt="AI Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+Expert+%F0%9F%94%AC;Building+Intelligent+Systems+%E2%9A%99%EF%B8%8F;AI+Automation+Architect+%F0%9F%A7%A0" alt="Typing SVG" />
+</p>
 
-<br/>
+---
+
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 🤖 About Me
 
@@ -56,13 +60,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahaIsmail&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaIsmail&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TahaIsmail&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaIsmail&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=TahaIsmail&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=TahaIsmail&theme=tokyonight&hide_border=true"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -70,23 +74,23 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TahaIsmail&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TahaIsmail&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TahaIsmail/TahaIsmail/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TahaIsmail/TahaIsmail/output/github-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TahaIsmail/TahaIsmail/output/github-snake.svg"/>
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TahaIsmail/TahaIsmail/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TahaIsmail/TahaIsmail/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TahaIsmail/TahaIsmail/output/github-snake.svg"/>
+</picture>
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=TahaIsmail&label=Profile%20Views&color=6&icon=5&pretty=true"/>
-  </a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=TahaIsmail&label=Profile+Views&color=6&icon=5&pretty=true"/>
+</a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
