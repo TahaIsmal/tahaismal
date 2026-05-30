@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
 ### 🤖 About Me
 
@@ -17,6 +17,8 @@
 
 <br/>
 
+<img  width="1000" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-esmail-61247229a)
@@ -25,7 +27,6 @@
 
 <br clear="right"/>
 
-<img  width="1000" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 ### 💻 My Tech Stack
 
