@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Taha%20Ismail&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20AI%20Automation&descAlignY=56&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Taha%20Esmail&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20AI%20Automation&descAlignY=56&descAlign=50"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+Expert+%F0%9F%94%AC;Building+Intelligent+Systems+%E2%9A%99%EF%B8%8F;AI+Automation+Architect+%F0%9F%A7%A0" alt="Typing SVG" />
@@ -24,10 +24,6 @@
 <br/>
 
 <img  width="1000" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 
 <br clear="right"/>
 
