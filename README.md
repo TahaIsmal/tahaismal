@@ -1,59 +1,90 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Taha%20Ismail&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20AI%20Automation&descAlignY=56&descAlign=50"/>
+<h1 align="center">Hi 👋, I'm Taha Ismail</h1>
+
+<h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+Expert+%F0%9F%94%AC;Building+Intelligent+Systems+%E2%9A%99%EF%B8%8F;AI+Automation+Architect+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer+💻;Building+Scalable+Systems+⚙️;Full+Stack+Development+🚀" alt="Typing SVG" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-<img align='200' src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
-### 🤖 About Me
+- 💻 I work across **Software Development, Web Development & Full-Stack Engineering**
+- 🏗️ Building **scalable systems, robust applications & innovative solutions**
+- 📫 How to reach me **tahaesamil7@gmail.com**
+- ⚡ Fun fact **I debug code with the same passion I debug my life**
 
-- 🧠 I work across **Artificial Intelligence, Machine Learning & AI Automation**
-- ⚙️ Building **intelligent systems, predictive models & automated solutions**
-- 📫 How to reach me: **tahaesamil7@gmail.com**
-- ⚡ Fun fact: **I train machines to be smarter than me**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="react"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"/>
+</p>
 
-<br/>
+<br clear="right"/>
 
-### 🌐 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-esmail-61247229a)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1APSeWy8wZ/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahaesamil7@gmail.com)
 
-<br clear="right"/>
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+## 🚀 My Top Projects
 
-### 💻 My Tech Stack
+<a href="https://github.com/TahaIsmail">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TahaIsmail&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/TahaIsmail">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TahaIsmail&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/TahaIsmail">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TahaIsmail&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/TahaIsmail">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TahaIsmail&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" />
+</a>
 
-**🐍 AI & Machine Learning**
+<br/><br/>
+
+## 💻 My Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-
-**🗄️ Databases & Cloud**
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-**🛠️ Tools & Design**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TahaIsmail&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaIsmail&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=TahaIsmail&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=TahaIsmail&icon=5&color=6)](https://visitcount.itsvg.in)
+
+---
+
+<p align="center">
+  <b>📌 Note:</b> Replace <code>REPO_NAME_1, REPO_NAME_2, etc.</code> with your actual GitHub repository names
+</p>
